@@ -1,5 +1,5 @@
-[![MasterHead](https://imgs.search.brave.com/cLvIAnDaJaHdVG4MLThz2q5wWzJCH-2i41P1RrSd4ls/rs:fit:1200:500:1/g:ce/aHR0cHM6Ly9jZG4t/aW1hZ2VzLnpldHku/Y29tL3BhZ2VzL2hv/d190b193cml0ZV93/ZWJfZGV2ZWxvcGVy/X3Jlc3VtZS5qcGc)]
-<h1 align="center">Hi 👋, I'm Naveen Sharma</h1>
+![MasterHead](https://imgs.search.brave.com/cLvIAnDaJaHdVG4MLThz2q5wWzJCH-2i41P1RrSd4ls/rs:fit:1200:500:1/g:ce/aHR0cHM6Ly9jZG4t/aW1hZ2VzLnpldHku/Y29tL3BhZ2VzL2hv/d190b193cml0ZV93/ZWJfZGV2ZWxvcGVy/X3Jlc3VtZS5qcGc)
+<h1 align="center">Hi , I'm Naveen Sharma</h1>
 <h3 align="center">A passionate Frontend , Software Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/GnwXOM5lsDY-1MXk8Bpemom61cUXcHFHf_zoiuCNhwc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS81/ZGRmNzNhZDNhMjA1/MTExY2Y4YzY4NmY2/ODdmYzIxNmMyOTQ2/YTc1MDA1NzE4Yzhk/YTViODM3YWQ5ZGU3/OGM5LzY4NzQ3NDcw/NzMzYTJmMmY3NDY4/NzU2ZDYyNzMyZTY3/NjY3OTYzNjE3NDJl/NjM2ZjZkMmY0NTc2/Njk2YzRlNjU3ODc0/NDQ2NTc2Njk2YzY2/Njk3MzY4MmQ3MzZk/NjE2YzZjMmU2NzY5/NjY">
