@@ -6,9 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **react**
-
-- 💬 Ask me about **HTML , CSS , Javascript , C , C++ , Python(Basic)**
+- 💬 Ask me about **HTML , CSS , Javascript , C , C++ , MySQL , DSA , OPPS**
 
 - 📫 How to reach me **naveen.sharma.cs.2024@gmail.com**
 
