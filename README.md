@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML , CSS , Javascript , C , C++ , MySQL , DSA , OPPS**
 
-- 📫 How to reach me **naveen.sharma.cs.2024@gmail.com**
+- 📫 How to reach me **naveensdlp123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
