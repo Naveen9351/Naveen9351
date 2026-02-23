@@ -1,134 +1,101 @@
 <div align="center">
-  <img height="200" src="https://imgs.search.brave.com/cLvIAnDaJaHdVG4MLThz2q5wWzJCH-2i41P1RrSd4ls/rs:fit:1200:500:1/g:ce/aHR0cHM6Ly9jZG4t/aW1hZ2VzLnpldHku/Y29tL3BhZ2VzL2hv/d190b193cml0ZV93/ZWJfZGV2ZWxvcGVy/X3Jlc3VtZS5qcGc"  alt="Master Header - Web Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Hello!+I'm+Naveen+Sharma;Full-Stack+MERN+Developer+%F0%9F%9A%80;React+%26+UI+Component+Specialist;1%2B+Year+Building+Scalable+Apps" alt="Typing SVG Greeting" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Naveen Sharma</h1>
-
-<h3 align="center">MERN Stack Developer | React Component Library Author | Building scalable web apps</h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/naveen-sharma-9a543924a" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://komarev.com/ghpvc/?username=Naveen9351&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/naveen-sharma-9a543924a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:naveensdlp123@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:naveensdlp123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Naveen9351" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/Naveen9351" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naveen9351&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-- 🔭 Currently working as **Software Development Engineer** at Provaantech Pvt. Ltd. (MERN stack, B2B platforms, AI features)
-- 🌱 Building reusable UI components & real-time applications
-- 🛠 Published npm package: [**naveen-ui**](https://www.npmjs.com/package/naveen-ui) – customizable React component library
-- 📈 1+ year of hands-on experience in full-stack development
-- 💡 Strong in **problem-solving**, **DSA**, and writing clean, maintainable code
-- 📫 Reach me → **naveensdlp123@gmail.com**
+- 🔭 **Currently** → Software Development Engineer at Provaantech Pvt. Ltd. (Hinjewadi, Pune) — Building full-stack **MERN** applications, B2B platforms with AI-driven features (resume parsing, candidate matching), reusable React components, and real-time interactions.
+- 🌱 Focused on → Clean, scalable, performant UI/UX + reusable component libraries + real-time apps (Socket.IO).
+- 📦 Proud of → Published my own React UI library: [**naveen-ui**](https://www.npmjs.com/package/naveen-ui) — customizable, themeable components.
+- 💼 Experience → 1+ year hands-on full-stack (Frontend Intern → SDE), strong DSA/problem-solving foundation.
+- 📍 Based in → Pune, Maharashtra, India
+
+**Open to** → Collaborations on React/MERN projects, freelance opportunities, or interesting startup ideas!
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,html,css,js,typescript,java,c,cpp,mysql,git,github,vscode,aws,vercel" alt="skills" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,html,css,js,typescript,firebase,socketdotio,git,github,vscode,vercel,aws,mysql,java,c,cpp" alt="Tech Stack Icons" />
+  </a>
 </p>
 
-**Frontend:** React.js (ES6+), JavaScript, HTML5, CSS3, Tailwind CSS, Responsive Design, Reusable Components  
-**Backend:** Node.js, Express.js, MongoDB, MySQL, Firebase, Socket.IO  
-**Others:** Git, npm, Vercel, AWS (basics), DSA, OOPs
+**Frontend**  
+React.js (ES6+), JavaScript/TypeScript, Tailwind CSS, HTML5, CSS3, Responsive Design, Reusable Components  
+
+**Backend**  
+Node.js, Express.js, MongoDB, MySQL, Firebase, Socket.IO, REST APIs  
+
+**Tools & Fundamentals**  
+Git/GitHub, npm publishing, Vercel, AWS basics, Visual Studio Code, Data Structures & Algorithms, OOPs
 
 ---
 
-### 🔥 GitHub Stats
+### 🏆 GitHub Highlights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen9351&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Naveen's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen9351&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Naveen9351&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Naveen9351&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen9351&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Key Projects
 
-<table align="center">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td><b>Naveen-UI</b></td>
-    <td>Reusable, themeable React component library (Published on npm)</td>
-    <td>React, npm</td>
-    <td><a href="https://www.npmjs.com/package/naveen-ui">npm</a></td>
-  </tr>
-  <tr>
-    <td><b>Prohirey</b></td>
-    <td>AI-powered B2B hiring platform (resume parsing, scoring, matching)</td>
-    <td>MERN, AI features</td>
-    <td>Internal – B2B recruitment tool</td>
-  </tr>
-  <tr>
-    <td><b>ToxBox AI Calling Agent</b></td>
-    <td>Real-time AI calling interface</td>
-    <td>React</td>
-    <td><a href="https://toxboxai.com">Live</a></td>
-  </tr>
-  <tr>
-    <td><b>Freelance Cafe Management</b></td>
-    <td>QR-based ordering system + real-time updates + admin dashboard</td>
-    <td>MERN, Socket.IO</td>
-    <td><a href="https://cafe-application-fe.vercel.app/menu?table=1">Live</a></td>
-  </tr>
-  <tr>
-    <td><b>Flow.Nav</b></td>
-    <td>Interactive diagram/flowchart builder (drag-drop, minimap, PDF export)</td>
-    <td>React</td>
-    <td><a href="https://flow-nav-one.vercel.app/">Live</a></td>
-  </tr>
-  <tr>
-    <td><b>Task Tracker</b></td>
-    <td>Full-stack task manager with authentication & CRUD</td>
-    <td>MERN</td>
-    <td><a href="https://tasks-tau-one.vercel.app">Live</a></td>
-  </tr>
-</table>
+| Project                  | Description                                                                 | Tech Stack              | Link / Demo                                      |
+|--------------------------|-----------------------------------------------------------------------------|-------------------------|--------------------------------------------------|
+| **naveen-ui**           | Customizable, themeable React component library (published on npm)         | React, npm              | [npmjs.com/package/naveen-ui](https://www.npmjs.com/package/naveen-ui) |
+| **ToxBox AI Calling**   | Real-time AI-powered calling agent interface                               | React                   | [toxboxai.com](https://toxboxai.com)            |
+| **Freelance Cafe App**  | QR-based table ordering, real-time updates, admin dashboard                | MERN, Socket.IO         | [cafe-application-fe.vercel.app](https://cafe-application-fe.vercel.app/menu?table=1) |
+| **Flow.Nav**            | Interactive flowchart/diagram builder (drag-drop, minimap, PDF export, zoom) | React                   | [flow-nav-one.vercel.app](https://flow-nav-one.vercel.app/) |
+| **Task Tracker**        | Full-stack task manager with user auth & CRUD                              | MERN                    | [tasks-tau-one.vercel.app](https://tasks-tau-one.vercel.app) |
+| **Prohirey**            | AI-powered B2B hiring/recruitment platform (internal at Provaantech)       | MERN, AI features       | Internal B2B tool                               |
+
+(Pro tip: Pin your top 6 repos on your GitHub profile for maximum visibility!)
 
 ---
 
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naveen-sharma-9a543924a" target="_blank">
+  <a href="https://www.linkedin.com/in/naveen-sharma-9a543924a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:naveensdlp123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <i>Always open to collaborate on interesting MERN / React projects!</i> 🚀
+  <i>Feel free to reach out for collaborations, feedback, or just to say hi! 🚀</i>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=45" alt="Wave Footer" />
 </div>
