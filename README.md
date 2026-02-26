@@ -22,61 +22,93 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently** → Software Development Engineer at Provaantech Pvt. Ltd. (Hinjewadi, Pune) — Building full-stack **MERN** applications, B2B platforms with AI-driven features (resume parsing, candidate matching), reusable React components, and real-time interactions.
-- 🌱 Focused on → Clean, scalable, performant UI/UX + reusable component libraries + real-time apps (Socket.IO).
-- 📦 Proud of → Published my own React UI library: [**naveen-ui**](https://www.npmjs.com/package/naveen-ui) — customizable, themeable components.
-- 💼 Experience → 1+ year hands-on full-stack (Frontend Intern → SDE), strong DSA/problem-solving foundation.
-- 📍 Based in → Pune, Maharashtra, India
+I'm a passionate **Full-Stack MERN Developer** based in Pune, India, with 1+ years of hands-on experience building scalable, real-time web applications.
 
-**Open to** → Collaborations on React/MERN projects, freelance opportunities, or interesting startup ideas!
+<p>
+  <img src="https://img.favpng.com/10/15/15/emoji-megaphone-loudspeaker-information-sms-png-favpng-3VFuijBEVMxKVwsxFmnkUPg7d.jpg" alt="Currently" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
+  <strong>Currently</strong> — Software Development Engineer at Provaantech Pvt. Ltd. (Hinjewadi, Pune)<br>
+  Building B2B platforms with AI-powered features (resume parsing, candidate matching), reusable React component libraries, and real-time features using Socket.IO.
+</p>
+
+<p>
+  <img src="https://www.clipartmax.com/png/middle/198-1983896_plants-clipart-emoji-seedling-emoji.png" alt="Exploring" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
+  <strong>Currently Exploring</strong> — Advanced React patterns, component design systems, performance optimization, and clean architecture for large-scale apps.
+</p>
+
+<p>
+  <img src="https://e7.pngegg.com/pngimages/18/352/png-clipart-emoji-packaging-and-labeling-java-package-sms-parcel-emoji-angle-class.png" alt="Achievement" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
+  <strong>Proud Achievement</strong> — Created and published <a href="https://www.npmjs.com/package/naveen-ui"><strong>naveen-ui</strong></a> — a customizable, themeable React UI component library (used in production projects).
+</p>
+
+<p>
+  <img src="https://www.clipartmax.com/png/middle/222-2224090_electric-light-bulb-light-bulb-emoji.png" alt="Enjoy" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
+  <strong>What I Enjoy</strong> — Crafting pixel-perfect, responsive UIs • Solving complex problems with clean code • Collaborating on innovative MERN/AI projects.
+</p>
+
+<p>
+  <img src="https://www.kindpng.com/picc/m/99-992010_pin-png-emoji-location-pin-png-transparent-png.png" alt="Location" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
+  <strong>Location</strong> — Pune, Maharashtra, India
+</p>
+
+<p>
+  <img src="https://i.pinimg.com/736x/ac/84/fb/ac84fb2712b090028badf52561af06d7.jpg" alt="Open to" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
+  <strong>Open to</strong> — React/MERN collaborations, freelance work, open-source contributions, or exciting startup ideas!
+</p>
+
+<p>Feel free to reach out — let's build something awesome together! ✨</p>
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,html,css,js,typescript,firebase,socketdotio,git,github,vscode,vercel,aws,mysql,java,c,cpp" alt="Tech Stack Icons" />
-  </a>
+  <img src="https://1000logos.net/wp-content/uploads/2023/10/React-Logo.png" alt="React" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/2048px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="80"/>
 </p>
 
-**Frontend**  
-React.js (ES6+), JavaScript/TypeScript, Tailwind CSS, HTML5, CSS3, Responsive Design, Reusable Components  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" width="80"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*q6b32yNdlpyQjDZlAc1QEg.png" alt="Express.js" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MySQL_logo.svg/2560px-MySQL_logo.svg.png" alt="MySQL" width="80"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*fHD1qA0rCg2Msdv-tAoW3g.jpeg" alt="Socket.IO" width="80"/>
+</p>
 
-**Backend**  
-Node.js, Express.js, MongoDB, MySQL, Firebase, Socket.IO, REST APIs  
-
-**Tools & Fundamentals**  
-Git/GitHub, npm publishing, Vercel, AWS basics, Visual Studio Code, Data Structures & Algorithms, OOPs
+<p align="center">
+  <img src="https://logos-world.net/wp-content/uploads/2025/07/Git-Logo.png" alt="Git" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="GitHub" width="80"/>
+  <img src="https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5E9UN3zud6lQ2ryAAVnQXT/9c51516c6e27df1ed499b147ea227428/zeit-is-now-vercel.png" alt="Vercel" width="100"/>
+  <img src="https://logowik.com/content/uploads/images/firebase5601.logowik.com.webp" alt="Firebase" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="80"/>
+</p>
 
 ---
 
-### 🏆 GitHub Highlights
+### 🏆 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Naveen9351&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen9351&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen9351&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen9351&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🌟 Key Projects
 
-| Project                  | Description                                                                 | Tech Stack              | Link / Demo                                      |
-|--------------------------|-----------------------------------------------------------------------------|-------------------------|--------------------------------------------------|
-| **naveen-ui**           | Customizable, themeable React component library (published on npm)         | React, npm              | [npmjs.com/package/naveen-ui](https://www.npmjs.com/package/naveen-ui) |
-| **ToxBox AI Calling**   | Real-time AI-powered calling agent interface                               | React                   | [toxboxai.com](https://toxboxai.com)            |
-| **Freelance Cafe App**  | QR-based table ordering, real-time updates, admin dashboard                | MERN, Socket.IO         | [cafe-application-fe.vercel.app](https://cafe-application-fe.vercel.app/menu?table=1) |
-| **Flow.Nav**            | Interactive flowchart/diagram builder (drag-drop, minimap, PDF export, zoom) | React                   | [flow-nav-one.vercel.app](https://flow-nav-one.vercel.app/) |
-| **Task Tracker**        | Full-stack task manager with user auth & CRUD                              | MERN                    | [tasks-tau-one.vercel.app](https://tasks-tau-one.vercel.app) |
-| **Prohirey**            | AI-powered B2B hiring/recruitment platform (internal at Provaantech)       | MERN, AI features       | Internal B2B tool                               |
+| Project              | Description                                                                 | Tech Stack              | Link / Demo                                      |
+|----------------------|-----------------------------------------------------------------------------|-------------------------|--------------------------------------------------|
+| **naveen-ui**        | Customizable, themeable React component library (published on npm)          | React, npm              | [npmjs.com/package/naveen-ui](https://www.npmjs.com/package/naveen-ui) |
+| **ToxBox AI Calling**| Real-time AI-powered calling agent interface                                | React                   | [toxboxai.com](https://toxboxai.com)             |
+| **Freelance Cafe App**| QR-based table ordering, real-time updates, admin dashboard                | MERN, Socket.IO         | [cafe-application-fe.vercel.app](https://cafe-application-fe.vercel.app/menu?table=1) |
+| **Flow.Nav**         | Interactive flowchart/diagram builder (drag-drop, minimap, PDF export, zoom)| React                   | [flow-nav-one.vercel.app](https://flow-nav-one.vercel.app/) |
+| **Task Tracker**     | Full-stack task manager with user auth & CRUD                               | MERN                    | [tasks-tau-one.vercel.app](https://tasks-tau-one.vercel.app) |
+| **Prohirey**         | AI-powered B2B hiring/recruitment platform (internal tool)                  | MERN, AI features       | Internal B2B tool                                |
 
-(Pro tip: Pin your top 6 repos on your GitHub profile for maximum visibility!)
+**Pro tip:** Pin your top 6 repos on GitHub for better visibility!
 
 ---
 
@@ -93,7 +125,7 @@ Git/GitHub, npm publishing, Vercel, AWS basics, Visual Studio Code, Data Structu
 </p>
 
 <p align="center">
-  <i>Feel free to reach out for collaborations, feedback, or just to say hi! 🚀</i>
+  <i>Excited to connect for collaborations, feedback, or just to chat about tech! ✨</i>
 </p>
 
 <div align="center">
