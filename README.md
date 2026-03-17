@@ -25,33 +25,27 @@
 I'm a passionate **Full-Stack MERN Developer** based in Pune, India, with 1+ years of hands-on experience building scalable, real-time web applications.
 
 <p>
-  <img src="https://img.favpng.com/10/15/15/emoji-megaphone-loudspeaker-information-sms-png-favpng-3VFuijBEVMxKVwsxFmnkUPg7d.jpg" alt="Currently" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
   <strong>Currently</strong> — Software Development Engineer at Provaantech Pvt. Ltd. (Hinjewadi, Pune)<br>
   Building B2B platforms with AI-powered features (resume parsing, candidate matching), reusable React component libraries, and real-time features using Socket.IO.
 </p>
 
 <p>
-  <img src="https://www.clipartmax.com/png/middle/198-1983896_plants-clipart-emoji-seedling-emoji.png" alt="Exploring" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
   <strong>Currently Exploring</strong> — Advanced React patterns, component design systems, performance optimization, and clean architecture for large-scale apps.
 </p>
 
 <p>
-  <img src="https://e7.pngegg.com/pngimages/18/352/png-clipart-emoji-packaging-and-labeling-java-package-sms-parcel-emoji-angle-class.png" alt="Achievement" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
   <strong>Proud Achievement</strong> — Created and published <a href="https://www.npmjs.com/package/naveen-ui"><strong>naveen-ui</strong></a> — a customizable, themeable React UI component library (used in production projects).
 </p>
 
 <p>
-  <img src="https://www.clipartmax.com/png/middle/222-2224090_electric-light-bulb-light-bulb-emoji.png" alt="Enjoy" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
   <strong>What I Enjoy</strong> — Crafting pixel-perfect, responsive UIs • Solving complex problems with clean code • Collaborating on innovative MERN/AI projects.
 </p>
 
 <p>
-  <img src="https://www.kindpng.com/picc/m/99-992010_pin-png-emoji-location-pin-png-transparent-png.png" alt="Location" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
   <strong>Location</strong> — Pune, Maharashtra, India
 </p>
 
 <p>
-  <img src="https://i.pinimg.com/736x/ac/84/fb/ac84fb2712b090028badf52561af06d7.jpg" alt="Open to" width="28" height="28" style="vertical-align: middle; margin-right: 8px;">
   <strong>Open to</strong> — React/MERN collaborations, freelance work, open-source contributions, or exciting startup ideas!
 </p>
 
