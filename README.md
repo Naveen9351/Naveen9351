@@ -6,6 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Software+Development+Engineer+II;Full+Stack+MERN+Developer;React+Native+Developer;Electron.js+Developer;AI+Integration+Engineer;Building+Scalable+Software+Products" />
 
+<br>
 
 <a href="mailto:naveensdlp123@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -20,14 +21,12 @@
 </a>
 
 
+
 </div>
 
 ---
-<div align="center">
 
-About Me
-
-</div>
+# About Me
 
 <table>
 <tr>
@@ -56,43 +55,77 @@ About Me
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="33%">
+
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,materialui,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,materialui,bootstrap,vite&perline=3" />
 
-<br><br>
+</td>
+
+<td align="center" width="33%">
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=3" />
 
-<br><br>
+</td>
 
-### Mobile & Desktop
-
-<img src="https://skillicons.dev/icons?i=react,electron" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio"/>
-
-<img src="https://img.shields.io/badge/SSE-2496ED?style=flat"/>
-
-<br><br>
+<td align="center" width="33%">
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,aws&perline=3" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=react&perline=1"/>
+
+<br>
+
+React Native • Expo
+
+</td>
+
+<td align="center">
+
+### Desktop
+
+<img src="https://skillicons.dev/icons?i=electron&perline=1"/>
+
+<br>
+
+Electron.js • IPC Communication
+
+</td>
+
+<td align="center">
+
+### Real-Time & AI
+
+<img src="https://skillicons.dev/icons?i=firebase&perline=1"/>
+
+<br>
+
+Socket.IO • SSE • AI APIs
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-#  Experience
+# Experience
 
 | Position | Company | Duration |
 |-----------|----------|-----------|
@@ -103,77 +136,90 @@ About Me
 
 ---
 
-#  Featured Projects
+# Featured Projects
 
 | Project | Description | Tech Stack | Status |
 |-----------|-------------|------------|--------|
-| **Nura Health** | Healthcare ecosystem with Android, iOS and Web applications | React Native · Node.js · MongoDB · Socket.IO |  Private |
-| **Enterprise Chatbot SDK** | Multi-tenant AI chatbot with streaming responses | React · Node.js · SSE · AI APIs |  Private |
-| **ProHirey** | AI-powered recruitment platform | MERN · AI APIs |  Internal |
-| **InterviewAssist AI** | Desktop interview assistant | Electron.js · React.js · Node.js |  Private |
+| **Nura Health** | Healthcare ecosystem with Android, iOS and Web applications | React Native · Node.js · MongoDB · Socket.IO | Private |
+| **Enterprise Chatbot SDK** | Multi-tenant AI chatbot with streaming responses | React · Node.js · SSE · AI APIs | Private |
+| **ProHirey** | AI-powered recruitment platform | MERN · AI APIs | Internal |
+| **InterviewAssist AI** | Desktop interview assistant | Electron.js · React.js · Node.js | Private |
 | **Naveen-UI** | Published reusable React component library | React · npm | Published |
-| **Flow.Nav** | Interactive flowchart builder | React |  Live |
-| **Cafe Management System** | QR-based ordering with real-time updates | MERN · Socket.IO |  Live |
-| **ResumeAI Pro** | AI-powered resume analysis platform | MERN · AI APIs |  Private |
-| **Skills Suggestion AI** | Career skill recommendation system | React · AI APIs |  Private |
+| **Flow.Nav** | Interactive flowchart builder | React | Live |
+| **Cafe Management System** | QR-based ordering with real-time updates | MERN · Socket.IO | Live |
+| **ResumeAI Pro** | AI-powered resume analysis platform | MERN · AI APIs | Private |
+| **Skills Suggestion AI** | Career skill recommendation system | React · AI APIs | Private |
 
 ---
 
-#  Expertise
+# Expertise
 
 <div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=react" /><br>
+<img src="https://skillicons.dev/icons?i=react"/>
+<br>
 <b>Frontend</b>
 </td>
 
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=nodejs" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<br>
 <b>Backend</b>
 </td>
 
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=electron" /><br>
+<img src="https://skillicons.dev/icons?i=electron"/>
+<br>
 <b>Desktop Apps</b>
 </td>
 
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=aws" /><br>
+<img src="https://skillicons.dev/icons?i=aws"/>
+<br>
 <b>Cloud</b>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react" /><br>
+<img src="https://skillicons.dev/icons?i=react"/>
+<br>
 <b>React Native</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<br>
 <b>Databases</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" /><br>
+<img src="https://skillicons.dev/icons?i=git"/>
+<br>
 <b>Dev Tools</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" /><br>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<br>
 <b>DSA & OOP</b>
 </td>
+
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-#  GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -189,40 +235,53 @@ About Me
 
 ---
 
-#  Currently Learning
+# Currently Learning
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=aws,docker"/>
 
-<br>
+<br><br>
 
-**System Design • Microservices • Performance Optimization • Advanced React**
+System Design • Microservices • Performance Optimization • Advanced React
 
 </div>
 
 ---
 
-#  Connect With Me
+# Connect With Me
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="33%">
 <a href="mailto:naveensdlp123@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+<br>
+<b>Gmail</b>
 </a>
+</td>
 
-&nbsp;&nbsp;
-
+<td align="center" width="33%">
 <a href="https://github.com/Naveen9351">
 <img src="https://skillicons.dev/icons?i=github"/>
+<br>
+<b>GitHub</b>
 </a>
+</td>
 
-&nbsp;&nbsp;
-
+<td align="center" width="33%">
 <a href="https://www.linkedin.com/in/naveen-sharma-9a543924a">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+<br>
+<b>LinkedIn</b>
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -230,7 +289,7 @@ About Me
 
 <div align="center">
 
-###  Thanks for visiting my profile!
+# Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 
