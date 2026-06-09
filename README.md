@@ -227,9 +227,7 @@ Socket.IO • SSE • AI APIs
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen9351&theme=tokyonight&hide_border=true"/>
 
-<br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen9351&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
