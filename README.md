@@ -24,7 +24,7 @@
 
 </div>
 
----
+<br />
 
 # About Me
 
@@ -49,7 +49,7 @@
 </tr>
 </table>
 
----
+<br />
 
 # Tech Stack
 
@@ -123,7 +123,7 @@ Socket.IO • SSE • AI APIs
 
 </div>
 
----
+<br />
 
 # Experience
 
@@ -134,7 +134,7 @@ Socket.IO • SSE • AI APIs
 | **Frontend Developer Intern** | Provaantech Pvt. Ltd. | Oct 2024 – Dec 2024 |
 | **Frontend Developer Intern** | DCRYPT | Aug 2024 – Oct 2024 |
 
----
+<br />
 
 # Featured Projects
 
@@ -150,7 +150,7 @@ Socket.IO • SSE • AI APIs
 | **ResumeAI Pro** | AI-powered resume analysis platform | MERN · AI APIs | Private |
 | **Skills Suggestion AI** | Career skill recommendation system | React · AI APIs | Private |
 
----
+<br />
 
 # Expertise
 
@@ -217,7 +217,7 @@ Socket.IO • SSE • AI APIs
 
 </div>
 
----
+<br />
 
 # GitHub Stats
 
@@ -231,7 +231,7 @@ Socket.IO • SSE • AI APIs
 
 </div>
 
----
+<br />
 
 # Currently Learning
 
@@ -245,7 +245,7 @@ System Design • Microservices • Performance Optimization • Advanced React
 
 </div>
 
----
+<br />
 
 # Connect With Me
 
@@ -283,7 +283,7 @@ System Design • Microservices • Performance Optimization • Advanced React
 
 </div>
 
----
+<br />
 
 <div align="center">
 
