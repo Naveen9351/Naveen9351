@@ -1,93 +1,90 @@
 <div align="center">
 
-# Hi 👋, I'm Naveen Sharma
+# Hi, I'm Naveen Sharma
 
-### Software Development Engineer – II | Full Stack Developer | AI Integration Engineer
+#### Software Development Engineer – II | Full Stack Developer | AI Integration Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Software+Development+Engineer+II;Full+Stack+MERN+Developer;React+Native+Developer;Electron.js+Developer;AI+Integration+Engineer;Building+Scalable+Products+Since+2024" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Software+Development+Engineer+II;Full+Stack+MERN+Developer;React+Native+Developer;Electron.js+Developer;AI+Integration+Engineer;Building+Scalable+Software+Products" />
 
-<br>
-
-<a href="https://www.linkedin.com/in/naveen-sharma-9a543924a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <a href="mailto:naveensdlp123@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naveen-sharma-9a543924a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Naveen9351">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Naveen9351&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
+<div align="center">
 
-# 💫 About Me
+About Me
 
-🚀 Software Development Engineer – II with **2+ years of experience** building AI-powered web, desktop, and mobile applications.
+</div>
 
-🏢 Currently working at **Provaantech Pvt. Ltd., Pune**
+<table>
+<tr>
+<td width="60%">
 
-💡 Specialized in:
+- Software Development Engineer – II at **Provaantech Pvt. Ltd.**
+- 2+ years of experience building scalable software products.
+- Specialized in AI Integrations and Full Stack Development.
+- Building Web, Mobile, and Desktop applications.
+- Creator of **Naveen-UI**, published on npm.
+- Exploring System Design, AWS, and Microservices.
 
-- Full Stack MERN Development
-- AI Integrations & Automation
-- React Native Applications
-- Electron Desktop Applications
-- Real-Time Communication Systems
-- Component Libraries & Design Systems
+</td>
 
-📦 Creator of **Naveen-UI**, a reusable React component library published on npm.
+<td width="40%">
 
-🌱 Currently exploring:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen9351&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- Advanced React Patterns
-- System Design
-- AWS
-- Scalable Architecture
-- Performance Optimization
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Tech Stack
-
-## Frontend
+# Tech Stack
 
 <div align="center">
+
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,materialui,bootstrap,vite" />
 
-</div>
+<br><br>
 
-## Backend
-
-<div align="center">
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 
-</div>
+<br><br>
 
-## Mobile & Desktop
-
-<div align="center">
+### Mobile & Desktop
 
 <img src="https://skillicons.dev/icons?i=react,electron" />
 
-</div>
+<br><br>
 
-<div align="center">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 
-React Native • Expo • Socket.IO • SSE • IPC Communication
+<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio"/>
 
-## Tools & Platforms
+<img src="https://img.shields.io/badge/SSE-2496ED?style=flat"/>
 
-<div align="center">
+<br><br>
+
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,aws" />
 
@@ -95,131 +92,88 @@ React Native • Expo • Socket.IO • SSE • IPC Communication
 
 ---
 
-# 💼 Experience
+#  Experience
 
-## Software Development Engineer – II
-### Provaantech Pvt. Ltd.
-📍 Pune, Maharashtra
-
-**Jun 2026 – Present**
-
-- Building scalable enterprise applications using the MERN stack.
-- Developing AI-powered platforms and automation systems.
-- Creating reusable React components and design systems.
-- Working on cloud deployment and AWS infrastructure.
+| Position | Company | Duration |
+|-----------|----------|-----------|
+| **Software Development Engineer – II** | Provaantech Pvt. Ltd. | Jun 2026 – Present |
+| **Software Development Engineer – I** | Provaantech Pvt. Ltd. | Jan 2025 – May 2026 |
+| **Frontend Developer Intern** | Provaantech Pvt. Ltd. | Oct 2024 – Dec 2024 |
+| **Frontend Developer Intern** | DCRYPT | Aug 2024 – Oct 2024 |
 
 ---
 
-## Software Development Engineer – I
-### Provaantech Pvt. Ltd.
+#  Featured Projects
 
-**Jan 2025 – May 2026**
-
-- Developed full-stack applications using React.js, Node.js, Express.js and MongoDB.
-- Implemented reusable UI components and optimized performance.
-- Built AI-powered workflow systems.
-
----
-
-## Frontend Developer Intern
-### Provaantech Pvt. Ltd.
-
-**Oct 2024 – Dec 2024**
-
-- Developed responsive React applications.
-- Integrated APIs and improved UI performance.
+| Project | Description | Tech Stack | Status |
+|-----------|-------------|------------|--------|
+| **Nura Health** | Healthcare ecosystem with Android, iOS and Web applications | React Native · Node.js · MongoDB · Socket.IO |  Private |
+| **Enterprise Chatbot SDK** | Multi-tenant AI chatbot with streaming responses | React · Node.js · SSE · AI APIs |  Private |
+| **ProHirey** | AI-powered recruitment platform | MERN · AI APIs |  Internal |
+| **InterviewAssist AI** | Desktop interview assistant | Electron.js · React.js · Node.js |  Private |
+| **Naveen-UI** | Published reusable React component library | React · npm | Published |
+| **Flow.Nav** | Interactive flowchart builder | React |  Live |
+| **Cafe Management System** | QR-based ordering with real-time updates | MERN · Socket.IO |  Live |
+| **ResumeAI Pro** | AI-powered resume analysis platform | MERN · AI APIs |  Private |
+| **Skills Suggestion AI** | Career skill recommendation system | React · AI APIs |  Private |
 
 ---
 
-## Frontend Developer Intern
-### DCRYPT
+#  Expertise
 
-**Aug 2024 – Oct 2024**
+<div align="center">
 
-- Enhanced AI education platform UI.
-- Built responsive interfaces using React and Tailwind CSS.
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" /><br>
+<b>Frontend</b>
+</td>
 
----
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs" /><br>
+<b>Backend</b>
+</td>
 
-# 🚀 Featured Projects
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=electron" /><br>
+<b>Desktop Apps</b>
+</td>
 
-## 🏥 Nura Health
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=aws" /><br>
+<b>Cloud</b>
+</td>
+</tr>
 
-Healthcare ecosystem with Android, iOS and Web applications.
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" /><br>
+<b>React Native</b>
+</td>
 
-**Tech Stack**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" /><br>
+<b>Databases</b>
+</td>
 
-React Native • React • Node.js • MongoDB • Socket.IO
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" /><br>
+<b>Dev Tools</b>
+</td>
 
----
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" /><br>
+<b>DSA & OOP</b>
+</td>
+</tr>
+</table>
 
-## 🤖 Enterprise Chatbot SDK
-
-AI-powered chatbot platform with streaming responses and lead capture.
-
-**Tech Stack**
-
-React • Node.js • SSE • AI APIs
-
----
-
-## 💼 ProHirey
-
-AI-powered recruitment platform featuring:
-
-- Resume Parsing
-- Candidate Matching
-- Candidate Scoring
-- Job Management
-
-**Tech Stack**
-
-React • Node.js • MongoDB • AI APIs
-
----
-
-## 🖥 InterviewAssist AI
-
-Desktop application for technical interview assistance.
-
-**Tech Stack**
-
-Electron.js • React.js • Node.js • AI APIs
+</div>
 
 ---
 
-## 📦 Naveen-UI
-
-Reusable React component library published on npm.
-
-https://www.npmjs.com/package/naveen-ui
-
----
-
-## 📊 Flow.Nav
-
-Interactive flowchart and diagram builder.
-
-Features:
-
-- Custom Nodes
-- MiniMap
-- Zoom Controls
-- PDF Export
-
----
-
-## ☕ Cafe Management System
-
-QR-based ordering platform with real-time updates.
-
-**Tech Stack**
-
-MERN • Socket.IO
-
----
-
-# 📈 GitHub Stats
+#  GitHub Stats
 
 <div align="center">
 
@@ -227,39 +181,30 @@ MERN • Socket.IO
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen9351&theme=tokyonight&hide_border=true"/>
 
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen9351&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<br>
+---
+
+#  Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen9351&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=docker" />
+
+<br>
+
+**System Design • Microservices • Performance Optimization • Advanced React**
 
 </div>
 
 ---
 
-# 🎯 Core Skills
-
-```text
-Frontend Development
-Backend Development
-Mobile Development
-Desktop Development
-AI Integrations
-REST APIs
-Socket.IO
-System Design
-Component Libraries
-React Native
-Electron.js
-MongoDB
-DSA & OOP
-````
-
----
-
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -267,9 +212,13 @@ DSA & OOP
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/Naveen9351">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/naveen-sharma-9a543924a">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -281,8 +230,8 @@ DSA & OOP
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
 
 </div>
