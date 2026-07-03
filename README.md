@@ -28,9 +28,6 @@
 
 # About Me
 
-<table>
-<tr>
-<td width="60%">
 
 - Software Development Engineer – II at **Provaantech Pvt. Ltd.**
 - 2+ years of experience building scalable software products.
@@ -39,15 +36,8 @@
 - Creator of **Naveen-UI**, published on npm.
 - Exploring System Design, AWS, and Microservices.
 
-</td>
 
-<td width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen9351&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
 
 <br />
 
